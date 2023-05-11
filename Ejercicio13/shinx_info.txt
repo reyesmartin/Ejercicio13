@@ -1,0 +1,3 @@
+Nombre: shinx
+Tipo: electric
+Peso: 95

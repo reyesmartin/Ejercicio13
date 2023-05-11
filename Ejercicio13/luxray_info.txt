@@ -1,0 +1,3 @@
+Nombre: luxray
+Tipo: electric
+Peso: 420
